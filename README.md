@@ -1,4 +1,3 @@
-# Final
 # Land Cover and Land Use Classification using Satellite Imagery
 
 ![Deep Learning](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
