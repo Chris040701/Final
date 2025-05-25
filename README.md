@@ -90,18 +90,6 @@ Install with:
 pip install -m requirements.txt
 ```
 
-### Run the Code
-1. Mount Google Drive (if using Colab):
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   ```
-2. Update paths in `Configuration`:
-   ```python
-   ROOT_PATH = '/content/drive/My Drive/data'
-   ```
-3. Execute the notebook cells sequentially.
-
 ## References
 - Helber P, Bischke B, Dengel A, et al. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, 12(7): 2217-2226.
 - Paszke A. Pytorch: An imperative style, high-performance deep learning library[J]. arXiv preprint arXiv:1912.01703, 2019.
