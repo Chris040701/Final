@@ -66,15 +66,6 @@ history = fit(
     opt_func=torch.optim.Adam
 )
 ```
-
-### Results
-- **Validation Accuracy**: 94.3%
-- **Confusion Matrix**:
-  ![Confusion Matrix](figures\confusion_matrix.jpg)
-- **Training Curves**:
-  - Loss vs. Epochs: ![Loss Plot](figures\Loss.jpg)
-  - Accuracy vs. Epochs: ![Accuracy Plot](figures\acc.jpg)
-
 ## Environmental Impact
 
 Training deep learning models has a carbon footprint. Strategies to mitigate this:
